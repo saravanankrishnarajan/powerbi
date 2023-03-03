@@ -6,7 +6,7 @@ power bi projects using multiple data sources
 csv
 excel
 hadoop
-hadoop hive
+hive
 hbase
 kafka
 databricks
